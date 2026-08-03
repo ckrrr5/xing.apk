@@ -1,0 +1,2 @@
+
+print("PyShell runtime placeholder")
